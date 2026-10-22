@@ -10,8 +10,8 @@ environment:
 
 dependencies:
   args: ">=2.6.0 <3.0.0"
-  build: ">=2.5.0 <3.0.0"
-  build_config: ">=1.1.2 <2.0.0"
+  build: ">=2.5.0 <5.0.0"
+  build_config: ">=1.1.2 <3.0.0"
   io: ">=1.0.5 <2.0.0"
   json_annotation: ">=4.9.0 <5.0.0"
   meta: ">=1.16.0 <2.0.0"
