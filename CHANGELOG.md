@@ -1,3 +1,7 @@
+## 1.5.1
+
+- Allow `build` 3 and 4 and `build_config` 2, so projects on Flutter 3.41 can resolve `freezed` 3 and `build_runner` 2.6+.
+
 ## 1.5.0
 
 - Updated minimum Dart SDK requirement to 3.5.0.
